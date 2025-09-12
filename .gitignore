@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+ENV/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+# Ignore IDE files
+.vscode/ 

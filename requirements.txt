@@ -1,2 +1,8 @@
 fastapi
 pydantic-settings
+cryptography
+dataclasses
+python-multipart
+opencv-python
+jinja2
+uvicorn
